@@ -1,9 +1,9 @@
-##Zomato-Data-Analysis-Using-Python
+## Zomato-Data-Analysis-Using-Python
 🍽️ Zomato Data Analysis Project 📊 Overview
 
 This project performs Exploratory Data Analysis (EDA) and visualization on the Zomato dataset using Python. It helps understand customer behavior, restaurant performance, and delivery trends.
 
-##🧠 Objective
+## 🧠 Objective
 
 Analyze Zomato’s restaurant data to answer key business questions such as:
 
@@ -19,7 +19,7 @@ Which mode (online/offline) has higher ratings?
 
 Which restaurant types get more offline orders?
 
-##🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 Programming Language: Python
 
@@ -33,7 +33,7 @@ matplotlib & seaborn – for data visualization
 
 plotly (optional) – for interactive charts
 
-##🗂️ Dataset
+## 🗂️ Dataset
 
 The dataset contains restaurant details from Zomato, including:
 
